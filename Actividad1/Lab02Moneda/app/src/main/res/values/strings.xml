@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab02Moneda</string>
+    <string name="btn_convertir">Calcular</string>
+    <string name="hint_cantidad">Ingrese la cantidad</string>
+</resources>
