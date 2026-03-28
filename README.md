@@ -17,11 +17,10 @@ En esta actividad se creó una aplicación que permitiera convertir soles a dól
 ---
 
 ## Ejercicio 1: Aplicación de conversión de monedas
-
+En este ejercicio se desarrolló una aplicación para permitir más conversiones de monedas mediante una barra desplazable que muestra de que moneda estas ingresando la cantidad y a cual quieres pasar, además, se usa un botón para ejecutar la acción y el resultado se muestra en un cuadro de texto.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/16a7030d-9520-4020-9b58-94d522548134" width="250"/>
 </p>
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b65bfc12-9ec2-462f-b1d0-44742d9a6781" width="250"/>
 </p>
@@ -29,3 +28,31 @@ En esta actividad se creó una aplicación que permitiera convertir soles a dól
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7e87d4d0-8671-4518-9cb9-56f6fe74e25e" width="250"/>
 </p>
+
+## Ejercicio 2: Aplicación de Pizza
+En este ejercicio se realizó un programa donde se ingresaron 4 imágenes de diferentes pizzas, dichas imagenes tienen la característica de poder se presionadas.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/40756d34-dc43-419c-88cb-0b7c6b76f8b0" width="250"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ae5b174e-065f-48e7-a1c8-14c9ad3ede73" width="250"/>
+</p>
+
+
+## Ejercicio 3: Calculadora
+En este ejercicio se pidió desarrollar una aplicación similar a las anteriores, por lo que se optó por desarrollar una calculadora con operaciones básicas y un botón para borrar el resultado mostrado en pantalla.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/09304f23-b0aa-4efe-a3b0-029dcab15f4f" width="250"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0613aeb6-08a5-4588-b44d-f4d75c1b0996" width="250"/>
+</p>
+
+
+
+
+
+
